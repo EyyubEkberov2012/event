@@ -1,0 +1,15 @@
+body{
+    margin: 20px;
+    background-color: black;
+}
+#user{
+    width:400px;
+    height: 450px;
+    float: left;
+}
+.demo{
+    width:200px;
+    height: 160px;
+    float: left;
+    margin-top: 10px;  
+}
